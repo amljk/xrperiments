@@ -1,0 +1,13 @@
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/bin/Debug/netcoreapp3.1/InstallTest.deps.json
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/bin/Debug/netcoreapp3.1/InstallTest.runtimeconfig.json
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/bin/Debug/netcoreapp3.1/InstallTest.runtimeconfig.dev.json
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/bin/Debug/netcoreapp3.1/InstallTest.dll
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/bin/Debug/netcoreapp3.1/InstallTest.pdb
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.csproj.AssemblyReference.cache
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.AssemblyInfoInputs.cache
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.AssemblyInfo.cs
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.csproj.CoreCompileInputs.cache
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.dll
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.pdb
+/Users/anamaljkovic/Documents/github/xrperiments/csharp-unity/w1/install-test/InstallTest/InstallTest/obj/Debug/netcoreapp3.1/InstallTest.genruntimeconfig.cache

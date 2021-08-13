@@ -1,2 +1,3 @@
-# xrperiments
-Unity (C#) experiments in extended reality.
+# XRperiments
+
+Repo to store ongoing experiments in extended reality. Made in Unity.
